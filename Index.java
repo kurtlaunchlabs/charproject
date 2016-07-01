@@ -3,9 +3,9 @@ public class Index{
 
 	public void main(String args[]){
 
-		/* This is july1 update */
+		/* This is july2 update */
 
-		System.out.println("Hello this is a master branch july1");
+		System.out.println("Hello this is a master branch july2");
 
 
 	}
