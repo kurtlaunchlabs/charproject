@@ -5,7 +5,7 @@ public class Index{
 
 		/* This is july1 update */
 
-		System.out.println("Hello this is a master branch july1");
+		System.out.println("Hello this is a master branch july2");
 
 
 	}
