@@ -5,7 +5,7 @@ public class Index2{
 		
 		/*This is a update of july1*/
 
-		System.out.println("This is a master branch and Index2");
+		System.out.println("This is a master branch and Index2nd");
 		
 	}
 }
